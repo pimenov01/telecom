@@ -4,7 +4,7 @@
 # 2 lab - https://colab.research.google.com/drive/1vXi1Xv-7Uh_QHg1rt4vZccHHUaOpIsvu?usp=sharing
 # 3 lab - https://colab.research.google.com/drive/1e3Rkp0H0R5rLNLR_kJilcfmHDqyVyD2R?usp=sharing
 # 4 lab - https://colab.research.google.com/drive/1oUNKQP7bQ_yVFLW6klROnUdg13PApUW_?usp=sharing
-# 5 lab -
+# 5 lab - https://colab.research.google.com/drive/1LEcoc2cPMP07P_t-Qw_UcQ2AzmlLR7hb?usp=sharing
 # 6 lab -
 # 7 lab -
 # 8 lab -
