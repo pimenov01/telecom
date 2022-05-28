@@ -9,6 +9,6 @@
 # 7 lab - https://colab.research.google.com/drive/1jyu0MTfeqKo42pqsEHlZudmsyhnO0M_h?usp=sharing
 # 8 lab - https://colab.research.google.com/drive/199GYo1GRmiaU1lT4FJ7CpwqI3XE6v-1d?usp=sharing
 # 9 lab - https://colab.research.google.com/drive/1m0a83Cz59Nd-DjymweBiRqir_qSCilPt?usp=sharing
-# 10 lab -
+# 10 lab - https://colab.research.google.com/drive/1Lh3pI5ps3k4irfxHS5HKB9kuF__Qe7kT?usp=sharing
 # 11 lab -
 # RadioGNU lab -
