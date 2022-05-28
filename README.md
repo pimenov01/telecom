@@ -11,4 +11,4 @@
 # 9 lab - https://colab.research.google.com/drive/1m0a83Cz59Nd-DjymweBiRqir_qSCilPt?usp=sharing
 # 10 lab - https://colab.research.google.com/drive/1Lh3pI5ps3k4irfxHS5HKB9kuF__Qe7kT?usp=sharing
 # 11 lab - https://colab.research.google.com/drive/1wO-L1jPme3v0NT-3a2uWwd67QYb96cd-?usp=sharing
-# RadioGNU lab -
+# RadioGNU lab - представлена в отчете
